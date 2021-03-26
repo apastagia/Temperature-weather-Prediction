@@ -3,7 +3,7 @@
 ## Problem Statement
 The problem we will tackle is predicting the max temperature using one year of past weather data.
 
-**feel free to find data for your own city using the https://www.ncdc.noaa.gov/cdo-web/ **
+find data for your own city using the https://www.ncdc.noaa.gov/cdo-web/
 
 data file : https://drive.google.com/file/d/1pko9oRmCllAxipZoa3aoztGZfPAD2iwj/view
 
