@@ -44,4 +44,4 @@ https://www.programmersought.com/article/2969856002/
 And finally in my notebook I added the two lines below.
 
 import os
-os.environ["PATH"] += os.pathsep + 'C:/Program Files (x86)/Graphviz2.38/bin/'
+os.environ["PATH"] += os.pathsep + 'C:/Program Files/Graphviz2.38/bin/'
