@@ -32,3 +32,6 @@ data file : https://drive.google.com/file/d/1pko9oRmCllAxipZoa3aoztGZfPAD2iwj/vi
 9. If performance is not satisfactory, adjust the model, acquire more data, or try a different modeling technique
 
 10. Interpret model and report results visually and numerically
+
+## For creating graph
+use pydot/pydotplus and graphviz
