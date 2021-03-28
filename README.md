@@ -35,3 +35,13 @@ data file : https://drive.google.com/file/d/1pko9oRmCllAxipZoa3aoztGZfPAD2iwj/vi
 
 ## For creating graph
 use pydot/pydotplus and graphviz
+Download : https://graphviz.gitlab.io/download/
+
+If this kind of error is generated,
+FileNotFoundError: [WinError 2] "dot" not found in path. and '`pydot` failed to call GraphViz.'
+https://www.programmersought.com/article/2969856002/
+
+And finally in my notebook I added the two lines below.
+
+import os
+os.environ["PATH"] += os.pathsep + 'C:/Program Files/Graphviz2.38/bin/'
