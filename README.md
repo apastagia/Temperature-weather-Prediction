@@ -1,5 +1,9 @@
 ## Randomforest
 
+Dataset:
+temps.csv - for jupyter notebook1
+temps_extended.txt - for jupyter notebook2
+
 ## Problem Statement
 The problem we will tackle is predicting the max temperature using one year of past weather data.
 
