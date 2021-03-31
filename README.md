@@ -1,5 +1,9 @@
 ## Randomforest
 
+Jupyter Notebook1 - Random Forest Approach 
+Jupyter Notebook2 - Hypyer Parameter Tuning(Working on Improving Accuracy- by adding more data)
+Jupyter Notebook3 - Different approaches used to increase accuracy
+
 Dataset:
 temps.csv - for jupyter notebook1
 temps_extended.txt - for jupyter notebook2
